@@ -4,9 +4,9 @@
   "info": {
     "name": "Device tree binary",
     "description": "Create your own device tree binary",
-    "author_url": "https://github.com/orannnnnnge/redpill-dtb/raw/main/redpill-dtb",
-    "packer_url": "https://github.com/orannnnnnge/redpill-dtb/raw/main/redpill-dtb",
-    "help_url": "https://github.com/orannnnnnge/redpill-dtb/raw/main/redpill-dtb"
+    "author_url": "https://github.com/orannnnnnge/redpill-dtb",
+    "packer_url": "https://github.com/orannnnnnge/redpill-dtb",
+    "help_url": "https://github.com/orannnnnnge/redpill-dtb"
   },
   "releases": {
     "ds920p_42661": "https://github.com/orannnnnnge/redpill-dtb/raw/main/model_ds920p.json"
