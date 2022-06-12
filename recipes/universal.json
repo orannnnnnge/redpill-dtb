@@ -17,7 +17,7 @@
       "url": "https://github.com/orannnnnnge/redpill-dtb/raw/main/releases/model_ds920p.dtb",
       "sha256": "ee626061bc68afbf254ff4abbc901b379ba4b62aa04e9359c4d541e849426872",
       "packed": false
-    }
+    },
     {
       "name": "dtc",
       "url": "https://github.com/orannnnnnge/redpill-dtb/raw/main/releases/dtc",
